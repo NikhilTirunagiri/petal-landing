@@ -19,8 +19,8 @@ export default function NotFound() {
           <div className="mb-12">
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">Coming Soon</h2>
             <p className="text-xl text-white/70 leading-relaxed mb-8">
-              We're working on something amazing! This page is under construction, but we'd love to keep you updated on
-              our progress.
+              We&apos;re working on something amazing! This page is under construction, but we&apos;d love to keep you
+              updated on our progress.
             </p>
             <p className="text-lg text-white/60">Join our waitlist to be the first to know when we launch.</p>
           </div>
